@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yahamdi00@gmail.com
+	name = Yahya Hamdi
